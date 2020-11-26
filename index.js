@@ -9,4 +9,4 @@ const getUser = async () => {
 
 getUser()
 
-console.log('sss')
+console.log('sss2')
